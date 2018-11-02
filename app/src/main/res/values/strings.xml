@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScoreKeeperApp</string>
+    <string name="reset">Reset</string>
+    <string name="Score_1">Score:1</string>
+    <string name="Score_2">Score:2</string>
+    <string name="play_name">Domino</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="new_score1">total score 1</string>
+    <string name="new_score2">total score 2</string>
+
+</resources>
